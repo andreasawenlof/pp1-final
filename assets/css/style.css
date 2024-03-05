@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +13,39 @@ body {
 }
 
 header {
+    padding-top: 10px;
     background-color: white;
     color: black;
+    position: fixed;
+    width: 100%;
+    text-transform: uppercase;
 }
 
+#logo {
+    font-family: "Protest Revolution", sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 36px;
+}
+
+h1 {
+
+}
+
+#menu {
+    padding: 5px;
+    margin-top: 10px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    align-items: center;
+    padding-bottom: 5px;
+    background-color: #222;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+}
