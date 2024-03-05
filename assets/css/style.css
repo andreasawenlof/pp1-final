@@ -98,6 +98,10 @@ main {
     margin-top: 20px;
 }
 
+#media {
+    margin: 0 15px;
+}
+
 #media section {
     margin: 0 10px 100px;
     padding: 10px;
@@ -207,7 +211,7 @@ main {
     }
 
     #media section {
-        margin: 50px auto;
+        margin: 120px auto;
     }
 
     #media-gallery {
@@ -260,7 +264,7 @@ main {
     #about section {
         width: 50%;
         margin: 200px auto;
-        padding: 30px;
+        padding: 30px auto;
     }
 
     h2 {
