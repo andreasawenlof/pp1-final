@@ -43,26 +43,7 @@ h2 {
     color: white;
     font-size: 26px;
     text-align: center;
-}
-
-#about {
-    margin: 0 15px;
-    line-height: 20px;
-}
-
-#about section {
-    margin: 0 10px 100px;
-    padding: 10px;
-    border: 3px solid #222;
-    border-radius: 10px;
-    margin-top: 120px;
-    background-color: #222;
-    opacity: 0.8;
-    overflow: scroll;
-}
-
-#about p {
-    margin-top: 20px;
+    margin: 30px 0;
 }
 
 #menu {
@@ -96,6 +77,38 @@ main {
     background-repeat: no-repeat;
     flex: 1 0 auto;
 }
+
+#about {
+    margin: 0 15px;
+    line-height: 20px;
+}
+
+.sections {
+    margin: 0 10px 100px;
+    padding: 10px;
+    border: 3px solid #222;
+    border-radius: 10px;
+    margin-top: 120px;
+    background-color: #222;
+    opacity: 0.8;
+    overflow: scroll;
+}
+
+#about p {
+    margin-top: 20px;
+}
+
+#media section {
+    margin: 0 10px 100px;
+    padding: 10px;
+    border: 3px solid #222;
+    border-radius: 10px;
+    margin-top: 120px;
+    background-color: #222;
+    opacity: 0.8;
+    overflow: scroll;
+}
+
 
 .social-bottom {
     width: 100%;
@@ -153,15 +166,30 @@ main {
 
     #about section {
         width: 50%;
-        margin: 200px auto;
+        margin: 120px auto;
     }
 
     h2 {
-        font-size: 200%;
+        font-size: 210%;
     }
 
     p {
         line-height: 1.5rem;
+    }
+
+    #media {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #media section {
+        margin: 50px auto;
+    }
+
+    #media-gallery {
+        display: flex;
+        justify-content: space-evenly;
+        gap: 20px;
     }
 }
 
@@ -206,10 +234,21 @@ main {
     }
 
     h2 {
-        font-size: 200%;
+        font-size: 250%;
     }
 
     p {
         line-height: 1.5rem;
+    }
+
+    #media {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #media-gallery {
+        display: flex;
+        justify-content: space-evenly;
+        gap: 20px;
     }
 }
