@@ -109,6 +109,30 @@ main {
     overflow: scroll;
 }
 
+#contact section {
+    margin: 0 10px 100px;
+    padding: 10px;
+    border: 3px solid #222;
+    border-radius: 10px;
+    margin-top: 120px;
+    background-color: #222;
+    opacity: 0.8;
+    overflow: scroll;
+}
+
+#contact div {
+    width: 80%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+
+}
+
+#contact input {
+    height: 2rem;
+}
+
 
 .social-bottom {
     width: 100%;
@@ -191,6 +215,11 @@ main {
         justify-content: space-evenly;
         gap: 20px;
     }
+
+    #contact section {
+        width: 50%;
+        margin: 50px auto;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -231,6 +260,7 @@ main {
     #about section {
         width: 50%;
         margin: 200px auto;
+        padding: 30px;
     }
 
     h2 {
