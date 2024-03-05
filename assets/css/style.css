@@ -7,6 +7,7 @@
 }
 
 body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     background-color: #222;
@@ -16,11 +17,13 @@ body {
 }
 
 header {
-    padding-top: 10px;
+    padding: 10px 0;
     background-color: white;
     color: black;
     position: fixed;
     width: 100%;
+    opacity: 0.7;
+    z-index: 99;
 }
 
 #logo {
@@ -42,9 +45,19 @@ h2 {
 }
 
 #about {
-    width: 90%;
-    margin: 0 auto;
+    margin: 0 15px;
     line-height: 20px;
+}
+
+#about section {
+    margin: 0 10px 100px;
+    padding: 10px;
+    border: 3px solid #222;
+    border-radius: 10px;
+    margin-top: 120px;
+    background-color: #222;
+    opacity: 0.8;
+    overflow: scroll;
 }
 
 #about p {
@@ -75,10 +88,38 @@ h2 {
 }
 
 main {
-    margin-top: 120px;
+    top: 0;
+    background-image: url("/assets/images/jelica-close-cover-bw-dark.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    flex: 1 0 auto;
+}
+
+.social-bottom {
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    padding: 15px 0;
+    z-index: 99;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    bottom: 0px;
+    opacity: 0.7;
+}
+
+.social-bottom i {
+    font-size: 200%;
+    color: #222;
 }
 
 @media screen and (min-width: 992px) {
+
+    header {
+        height: 80px;
+    }
+
     #logo {
         display: flex;
         font-size: 300%;
@@ -94,12 +135,16 @@ main {
         justify-content: space-evenly;
         font-size: 150%;
         background-color: white;
-        right: 10px;
-        top: 18px;
+        right: 20px;
+        top: 28px;
         gap: 40px;
     }
 
     #menu a {
         color: #222;
+    }
+
+    main {
+        margin-top: 80px;
     }
 }
