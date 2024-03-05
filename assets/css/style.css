@@ -113,6 +113,10 @@ main {
     overflow: scroll;
 }
 
+#contact {
+    margin: 0 15px;
+}
+
 #contact section {
     margin: 0 10px 100px;
     padding: 10px;
@@ -134,7 +138,28 @@ main {
 }
 
 #contact input {
+    margin-top: 5px;
     height: 2rem;
+}
+
+#contact textarea {
+    margin-top: 5px;
+}
+
+#contact-buttons {
+    display: flex;
+    flex-direction: row;
+    margin: 10px auto;
+}
+
+#contact-buttons input {
+    margin-top: 5px;
+}
+
+#contact-buttons input:active {
+    background-color: black;
+    color: white;
+    font-weight: bold;
 }
 
 
@@ -220,9 +245,14 @@ main {
         gap: 20px;
     }
 
+    #contact {
+        display: flex;
+        flex-direction: column;
+    }
+
     #contact section {
         width: 50%;
-        margin: 50px auto;
+        margin: 120px auto;
     }
 }
 
