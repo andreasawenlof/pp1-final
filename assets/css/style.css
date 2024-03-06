@@ -32,6 +32,11 @@ header {
     text-align: center;
 }
 
+#logo-link {
+    text-decoration: none;
+    color: #222;
+}
+
 h1 {
     font-size: 36px;
     text-transform: uppercase;
@@ -230,9 +235,9 @@ footer p {
     }
 
     #logo {
-        margin-top: 13px;
+        margin-top: 8px;
         display: flex;
-        font-size: 200%;
+        font-size: 250%;
         justify-content: flex-start;
         align-items: center;
         margin-left: 20px;
