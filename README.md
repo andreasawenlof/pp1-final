@@ -54,7 +54,6 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
       - [Used Media](#used-media)
     - [ Acknowledgments](#acknowledgments)
   - [Final Thoughts and Comments](#final-thoughts-and-comments)
-  - [GENERAL EXPERIENCE](#general-experience)
 
 ---
 
@@ -310,7 +309,6 @@ Thanks to CI Academy for providing a great learning experience.
 Thanks to Jack Ryan on Amazon Prime for helping me with taking breaks.
 
 ## Final Thoughts and Comments
-## GENERAL EXPERIENCE
 At the start I actually had done quite a bit and realized i hadn't commit anything so i remade the project from scratch to be able to commit at the same time when doing the project and not manufacture them later on.
 
 I probably ended up rebuilding the project 10-20 times not being happy. Started with different designs, single page, multi page, single page again. Colors no grayscale etc. The journey has been quite long but it has been very teachable and fun in the end.
