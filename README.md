@@ -25,12 +25,16 @@ This is a website for Jelica Thorn Music. This website is reponsive and allowed 
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
   - [Features](#features)
+    - [General features on each page](#general-features-on-each-page)
     - [Favicon](#favicon)
     - [Header / Nav](#header--nav)
       - [Mobile](#mobile)
       - [Desktop](#desktop)
     - [Footer](#footer)
-    - [General features on each page](#general-features-on-each-page)
+    - [The Homepage](#the-homepage)
+    - [Media Section](#media-section)
+    - [Contact Section](#contact-section)
+    - [404 Error Page](#404-error-page)
     - [Future Implementations](#future-implementations)
     - [Accessibility](#accessibility)
   - [Technologies Used](#technologies-used)
@@ -113,16 +117,26 @@ Using one background image for all content:
 Wireframes were not used for this particular project
 
 ## Features
-The page consist of 3 pages:
-
-An home-page, media sectio and contact section.
+The page consist a home-page, media section, contact section and 404 Error page.
 
 The whole site is reponsive and works well for all kind of different devices.
+
+
+
+👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
+
+This section can be used to explain what pages your site is made up of.
+
+### General features on each page
 
 ### Favicon
 ![Favicon](assets/favicon/favicon-32x32.png) that represents that it's a music page and more an artist, singer page.
 
+Favicon exists on every page.
+
 ### Header / Nav
+
+This header exist on every page:
 
 #### Mobile
 ![Header for Mobile Devices](docs/images/header-mobile.png)
@@ -139,6 +153,9 @@ An active feature is added as an underline under the link to easily see what pag
 The header is fixed and doesn't follow the flow of the rest of the page.
 
 ### Footer
+
+The footer exists on every page
+
 ![Footer for Mobile Devices](docs/images/footer-mobile.png)
 Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. Copyright information in the bottom center.
 Used the same colors for footer as for header to make it follow a consistent theme.
@@ -151,19 +168,31 @@ Copyright information in the bottom center.
 Used the same colors for footer as for header to make it follow a consistent theme.
 The footer is fixed and doesn't follow the flow of the rest of the page.
 
+Background is fixed, and all the content in front of it moves without the background moving.
 
+### The Homepage
+The homepage consists of an about me section to read about the artist, what she is about and what her music is inspired. This page is very crucial to attract the visitor as we want them to click further on the links.
+![Responsive image of The Homepage](docs/images/home-resp.png)
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
+### Media Section
+This page consist of header and embedded iframes of media. Spotify link and youtube links. The section is split up into 2 sections for clarity:
+- Music section
+- Video section
+The padding is transparent but the videos and the content is not trasnsparent.
 
-This section can be used to explain what pages your site is made up of.
+### Contact Section
+The contact section consist of a h2 header and a form for the visitor to contact the artist.
+The input-fields are required which means a user must input information in all fielfs for it to be able to submit.
+A large textarea for the user to input a larger message for the communication to feel a bit more personal and intimate.
+A bit submit button is added below the form to submit the contact form.
 
-### General features on each page
-
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
-
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
+### 404 Error Page
+Information when the user inputs a non existing webpage. Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
 
 ### Future Implementations
+I would like to fix an update section where there is a "feature-section" like a new album or so. I would also want better material, better quality and more proper links for the artist to express themselves. 
+
+
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
