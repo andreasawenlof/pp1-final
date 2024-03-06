@@ -228,6 +228,14 @@ footer p {
     text-align: center;
 }
 
+#error {
+    text-align: center;
+}
+
+#error a {
+    color: white;
+}
+
 /* RESPONSIVE DESIGNS FOR BIGGER SCREENS */
 
 
