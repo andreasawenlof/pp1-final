@@ -18,10 +18,11 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
     - [Mobile Results](#mobile-results)
 - [MANUAL TESTING](#manual-testing)
   - [Testing User Stories](#testing-user-stories)
+    - [Returning Visitors Goals](#returning-visitors-goals)
   - [Full Testing](#full-testing)
+- [FIXED AFTER MENTOR FEEDBACK](#fixed-after-mentor-feedback)
+- [FIXED AFTER USER FEEDBACK/EXPERIENCE](#fixed-after-user-feedbackexperience)
 - [BUGS](#bugs)
-  - [Known Bugs](#known-bugs)
-  - [Solved Bugs](#solved-bugs)
 
 ---
 
@@ -67,24 +68,51 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 ### Testing User Stories
 
+- I want to know what the artist is about and through that know if i'm interested or not
+- I want to be able to listen or watch the artist media either on the site or being able to click external links that can open in a new tab
+- I want to be able to contact the artist or send them a message
+
+#### Returning Visitors Goals
+- I want to see updates of new releases
+- I want to be able to contact her or send a message
+- I want to still be able to relate and recognize myself as last time
+
 👩🏻‍💻 View an example of a completed user stories testing section [here](https://github.com/kera-cudmore/BookWorm/blob/main/TESTING.md#Testing-User-Stories)
 
 This is where you will test the user stories you created in the README against your site. I like to use a table for this section - I create a column for the user stories goals, how these have been achieved and I use the third column to add any supporting images.
 
 ### Full Testing
+Full testing was performed on the following devices:
 
-👩🏻‍💻 View an example of a completed full testing section [here](https://github.com/kera-cudmore/TheQuizArms/blob/main/TESTING.md#Full-Testing)
+- Laptop:
+  - Macbook Air M2 13,6"
+Mobile Devices:
+Phone X.
 
-Full testing can be tedious, so it is great to try and break this part up into smaller chunks and do a bit at a time. Full testing is when you go through the site and test every single thing that can be tested. So for example you would test that all links in the navbar correctly redirect the user to where there are supposed to go. A table is the perfect way to display this information.
+Tested the site using the following browsers:
+Google Chrome
+Safari
+Firefox
+Microsoft Edge
+
+Had friends and family testing the site and reported very few issues.
+
+## FIXED AFTER MENTOR FEEDBACK
+- Removed transparency on header and footer
+- Merged about.html content to be at the home page for better attraction of visitor
+- Added more content in media section
+- Added Copyright in bottom of footer
+- Submit didn't go anywhere, added link to formdump.
+
+## FIXED AFTER USER FEEDBACK/EXPERIENCE
+- Split up the media section into Music and Video
 
 ## BUGS
+| Bug | Fix |
+| :--- | :--- |
+| Scroll-bar appeared in the "who-section" on Home | Removed "overflow" from style.css. |
+| Viewing contact form on Firefox, placeholder was too aligned to the left | Increased the padding-left |
+| Background scrolled with the content | Added background-attachment: fixed |
+| Everything was transparent even the videos on media section | Instead of Opacity i added an alpha channel to the color and chaged it from HEX to RGBA |
 
-### Known Bugs
-
-List (or put in a table) all known bugs on your site here as soon as you find them. This will prevent you from forgetting any at the end. Some (if not all) of these bugs will hopefully make their way over to the next section, solved bugs, as you progress through your project.
-
-### Solved Bugs
-
-👩🏻‍💻View an example of a completed bugs section [here](https://github.com/kera-cudmore/BookWorm/blob/main/TESTING.md#BUGS)
-
-This is where all solved bugs go once squashed. List what the bug was, and how you managed to fix it. You can also include images/videos here if you wanted.
+No unsolved bugs.

@@ -53,6 +53,8 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
     - [ Media](#media)
       - [Used Media](#used-media)
     - [ Acknowledgments](#acknowledgments)
+  - [Final Thoughts and Comments](#final-thoughts-and-comments)
+  - [GENERAL EXPERIENCE](#general-experience)
 
 ---
 
@@ -280,6 +282,7 @@ The Credits section is where you can credit all the people and sources you used 
 ### Code Used
 
 I've gotten inspired from the love-runnin project but wrote all the code myself.
+Also used Kera's readme-template to make a readme that i adjusted to fit my project.
 
 ### Content
 All the content is written by me.
@@ -302,5 +305,10 @@ Jaqi_5P
 Niclas_5P_Lead
 And many more if i forgot someone.
 Thanks to my sister who is the artist and has giving me right to do this and use her material and resource.
-Thanks to my great mentor Rahul, that gave me great feedback and pointers so I could fix things very early.
+Thanks to my great mentor from CI, that gave me great feedback and pointers so I could fix things very early.
+Thanks to CI Academy for providing a great learning experience.
 Thanks to Jack Ryan on Amazon Prime for helping me with taking breaks.
+
+## Final Thoughts and Comments
+## GENERAL EXPERIENCE
+I probably ended up rebuilding the project 10-20 times not being happy. Started with different designs, single page, multi page, single page again. Colors no grayscale etc. The journey has been long but it has been very teachable and fun in the end.
