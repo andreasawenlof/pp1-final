@@ -3,7 +3,7 @@
 
 This is a website for Jelica Thorn Music. This website is reponsive and allowed to view on all devices. The purpose of building this website is to attract mroe followers and listeners. To extend her brand and hopefully inspire people with her music.
 
-![Bully Book Club Website shown on a range of devices](assets/docs/images/Screenshot 2024-03-06 at 16.39.57.png)
+![Jelica Thorn Music Website shown on different devices](assets/images/reponsive.png)
 ---
 
 ## CONTENTS
