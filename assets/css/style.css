@@ -181,6 +181,10 @@ main {
     color: #222;
 }
 
+/* RESPONSSIVE DESIGNS FOR BIGGER SCREENS */
+
+
+/* Responsive for Screens over 768px */
 
 @media screen and (min-width: 768px) {
 
@@ -237,12 +241,19 @@ main {
 
     #media section {
         margin: 120px auto;
+        width: 80%;
     }
 
-    #media-gallery {
+    .media-gallery {
         display: flex;
         justify-content: space-evenly;
+        flex-wrap: wrap;
         gap: 20px;
+    }
+
+    .media-gallery iframe {
+        width: 300px;
+        height: 300px;
     }
 
     #contact {
@@ -254,8 +265,12 @@ main {
         width: 50%;
         margin: 120px auto;
     }
+    #music-iframe {
+        width: 100%;
+    }
 }
 
+/* Responsive for Screens over 992px */
 @media screen and (min-width: 992px) {
 
     header {
@@ -310,9 +325,19 @@ main {
         flex-direction: column;
     }
 
-    #media-gallery {
+    .media-gallery {
         display: flex;
         justify-content: space-evenly;
+        flex-wrap: wrap;
         gap: 20px;
+    }
+
+    .media-gallery iframe {
+        width: 300px;
+        height: 300px;
+    }
+
+    #music-iframe {
+        width: 100%;
     }
 }
