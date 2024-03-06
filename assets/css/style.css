@@ -155,6 +155,7 @@ iframe {
     margin-top: 5px;
     height: 2rem;
     border-radius: 5px;
+    padding-left: 2px;
 }
 
 #contact input::placeholder {
