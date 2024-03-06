@@ -66,7 +66,11 @@ h2 {
 }
 
 #menu a:hover {
-    color: #999;
+    color: #888;
+}
+
+#menu .active {
+    border-bottom: 1.5px solid #ddd;
 }
 
 main {
@@ -237,6 +241,10 @@ footer p {
 
     #menu a {
         color: #222;
+    }
+
+    #menu .active {
+        border-bottom: 3px solid #555;
     }
 
     main {
