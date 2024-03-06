@@ -1,11 +1,9 @@
-# PROJECT NAME TO GO HERE
+# Jelica Thorn Music
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
 
-Add a Blurb about the site here, what does it do, why did you build it?
+This is a website for Jelica Thorn Music. This website is reponsive and allowed to view on all devices. The purpose of building this website is to attract mroe followers and listeners. To extend her brand and hopefully inspire people with her music.
 
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
+[img]
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
 If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
