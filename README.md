@@ -124,12 +124,6 @@ The page consist a home-page, media section, contact section and 404 Error page.
 
 The whole site is reponsive and works well for all kind of different devices.
 
-
-
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
-
-This section can be used to explain what pages your site is made up of.
-
 ### General features on each page
 
 ### Favicon
@@ -139,7 +133,7 @@ Favicon exists on every page.
 
 ### Header / Nav
 
-This header exist on every page:
+This header exist on every page.
 
 #### Mobile
 ![Header for Mobile Devices](docs/images/header-mobile.png)
@@ -224,10 +218,6 @@ Favicons - To find the favicon used.
 ## Deployment & Local Development
 The site is deployed using Github Pages - [Jelica Thorn Music](https://andreasawenlof.github.io/pp1-final/)
 
-
-
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
 ### Deployment
 The instructions to achieve this are below:
 1. Log in (or sign up) to Github.
@@ -248,9 +238,6 @@ If you use VSCode here are the instructions:
 7. This will update in realtime when you make changes in the project on VSCode.
 
 #### How to Fork
-How to Fork
-To fork the Bully-Book-Club repository:
-
 Log in (or sign up) to Github.
 Go to the repository for this project, andreasawenlof/pp1-final.
 Click the Fork button in the top right corner.
@@ -269,10 +256,6 @@ See attached [TESTING.md](TESTING.md)
 
 ## Credits
 
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
-
-The Credits section is where you can credit all the people and sources you used throughout your project.
-
 - https://spotify.com
 - https://www.tutorialspoint.com/how-to-add-multiple-font-files-for-the-same-font-using-css
 - https://blog.hubspot.com/website/musician-website-examples
@@ -280,7 +263,7 @@ The Credits section is where you can credit all the people and sources you used 
 
 ### Code Used
 
-I've gotten inspired from the love-runnin project but wrote all the code myself.
+I've gotten inspired from the love-running project but wrote all the code myself.
 Also used Kera's readme-template to make a readme that i adjusted to fit my project.
 
 ### Content

@@ -1,7 +1,5 @@
 Jelica Thorn Music - TESTING
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md#found-in-translation----testing-documentation)
-
 ![Jelica Thorn Music Website shown on different devices](docs/images/reponsive.png)
 
 You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
@@ -28,15 +26,8 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
 
 ## AUTOMATED TESTING
 
-The Automated Testing includes all the testing that is carried out by a program, like W3C HTML validation.
 
 ###  W3C Validator
-
-👩🏻‍💻 View an example of a completed W3C HTML & CSS validation section [here](https://github.com/kera-cudmore/TheQuizArms/blob/main/TESTING.md#W3C-Validator)
-
-The most popular HTML validator is [W3C](https://validator.w3.org/). There are two ways to validate the HTML for your first milestone - you can copy the live link for your site page and paste into the validate by URI field, or you can copy all the code for your page and paste this into the validate by direct input field.
-
-
 [WC3](https://validator.w3.org/) was used to validate all HTML and CSS.
 <br>
 [index.html](https://andreasawenlof.github.io/pp1-final/index.html) - passed
@@ -77,9 +68,6 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 - I want to be able to contact her or send a message
 - I want to still be able to relate and recognize myself as last time
 
-👩🏻‍💻 View an example of a completed user stories testing section [here](https://github.com/kera-cudmore/BookWorm/blob/main/TESTING.md#Testing-User-Stories)
-
-This is where you will test the user stories you created in the README against your site. I like to use a table for this section - I create a column for the user stories goals, how these have been achieved and I use the third column to add any supporting images.
 
 ### Full Testing
 Full testing was performed on the following devices:
