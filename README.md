@@ -21,6 +21,7 @@ This is a website for Jelica Thorn Music. This website is reponsive and allowed 
     - [Colour Scheme](#colour-scheme)
     - [Thoughts behind choosing this colour scheme:](#thoughts-behind-choosing-this-colour-scheme)
     - [Typography](#typography)
+      - [Protest Revolution](#protest-revolution)
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
   - [Features](#features)
@@ -77,6 +78,7 @@ Jelica Thorn Music is a music site of the musician and artist Jelica Thorn. Wher
 
 ## Design
 
+
 ### Colour Scheme
 
 ![Color Scheme](<docs/images/Color Scheme.png>)
@@ -84,30 +86,30 @@ Jelica Thorn Music is a music site of the musician and artist Jelica Thorn. Wher
 Grayscale will never be outdated. It has a retro feel but also an intimate feel. It's timeless like this artist. Color scheme also show truth and genuinity, what you see is what you get. This colour-scheme reflects the artist the best.
 
 ### Typography
+I only imported one font from googlefonts that i use for the logo and h2 describing sections of the site.
 
-If you've imported fonts to use in your project, add some information about them here. You can include information like:
+#### Protest Revolution
+Reason behind this font is it felt a bit rebellish and a bit outside the box reflecting the artist and their personality and art.
 
-Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?
+It is accessible through google fonts, but i don't think it's that common.
 
-I also like to include an image of the fonts chosen as a reference.
+![Protest Revolution](docs/images/protest-revolution.png)
 
-[Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
+Otherwise the fonts i've used are standard:
+Verdana
+
 
 ### Imagery
 
-Use this section to explain what sort of imagery you plan to use through your site.
+Using one background image for all content:
+![background image](assets/images/jelica-close-cover-bw-dark.jpg)
 
 ### Wireframes
-
-Add the images or links for your wireframes here.
-
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+Wireframes were not used for this particular project
 
 ## Features
+
+
 
 👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
 
