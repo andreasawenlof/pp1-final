@@ -79,6 +79,11 @@ main {
     flex: 1 0 auto;
 }
 
+#about {
+    margin: 0 15px;
+    line-height: 20px;
+}
+
 .sections {
     margin: 0 10px 100px;
     padding: 10px;
@@ -88,6 +93,10 @@ main {
     background-color: #222;
     opacity: 0.8;
     overflow: scroll;
+}
+
+#about p {
+    margin-top: 20px;
 }
 
 #media {
@@ -227,6 +236,11 @@ footer p {
 
     main {
         margin-top: 80px;
+    }
+    
+    #about section {
+        width: 50%;
+        margin: 120px auto;
     }
 
     h2 {
