@@ -18,11 +18,11 @@ body {
 
 header {
     padding: 10px 0;
-    background-color: white;
+    background-color: #ddd;
     color: black;
     position: fixed;
     width: 100%;
-    opacity: 0.7;
+    opacity: 1;
     z-index: 99;
     box-shadow: 0 2px 2px 2px #222;
 }
@@ -63,7 +63,7 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: white;
+    color: #ddd;
 }
 
 #menu a:hover {
@@ -87,7 +87,6 @@ main {
     margin-top: 120px;
     background-color: #222;
     opacity: 0.8;
-    overflow: scroll;
 }
 
 #media {
@@ -116,7 +115,6 @@ main {
     margin-top: 120px;
     background-color: #222;
     opacity: 0.8;
-    overflow: scroll;
 }
 
 #contact div {
@@ -161,7 +159,7 @@ footer {
 
 footer .social-bottom {
     width: 100%;
-    background-color: white;
+    background-color: #ddd;
     position: fixed;
     padding: 20px 0;
     z-index: 99;
@@ -169,7 +167,8 @@ footer .social-bottom {
     justify-content: space-evenly;
     list-style-type: none;
     bottom: 0px;
-    opacity: 0.7;
+    opacity: 1;
+    box-shadow: 2px 0 2px 2px #222;
 }
 
 .social-bottom i {
@@ -181,7 +180,6 @@ footer .social-bottom {
 footer p {
     width: 100%;
     position: fixed;
-    display: block;
     font-size: 10px;
     bottom: 0px;
     color:#222;
@@ -295,7 +293,7 @@ footer p {
         align-items: baseline;
         justify-content: space-evenly;
         font-size: 150%;
-        background-color: white;
+        background-color:inherit;
         right: 20px;
         top: 28px;
         gap: 40px;
