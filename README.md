@@ -4,12 +4,14 @@
 This is a website for Jelica Thorn Music. This website is reponsive and allowed to view on all devices. The purpose of building this website is to attract mroe followers and listeners. To extend her brand and hopefully inspire people with her music.
 
 ![Jelica Thorn Music Website shown on different devices](docs/images/reponsive.png)
+
+You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
 ---
 
 ## CONTENTS
 
 - [Jelica Thorn Music](#jelica-thorn-music)
-  - [](#)
+  - [You can reach the page link here](#you-can-reach-the-page-link-here)
   - [CONTENTS](#contents)
   - [User Experience (UX)](#user-experience-ux)
     - [Key information for the site](#key-information-for-the-site)
