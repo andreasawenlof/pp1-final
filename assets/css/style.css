@@ -71,7 +71,7 @@ h2 {
 
 main {
     top: 0;
-    background-image: url("/assets/images/jelica-close-cover-bw-dark.jpg");
+    background-image: url("../images/jelica-close-cover-bw-dark.jpg");
     background-size: cover;
     background-position-x: center;
     background-repeat: no-repeat;
