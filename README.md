@@ -51,6 +51,7 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
     - [Code Used](#code-used)
     - [Content](#content)
     - [ Media](#media)
+      - [Used Media](#used-media)
     - [ Acknowledgments](#acknowledgments)
 
 ---
@@ -263,12 +264,7 @@ Open the terminal in your code editor and change the current working directory t
 Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
-
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
-
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
-  
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+See attached [TESTING.md](TESTING.md)
 
 ## Credits
 
@@ -276,18 +272,35 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 The Credits section is where you can credit all the people and sources you used throughout your project.
 
+- https://spotify.com
+- https://www.tutorialspoint.com/how-to-add-multiple-font-files-for-the-same-font-using-css
+- https://blog.hubspot.com/website/musician-website-examples
+
+
 ### Code Used
 
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+I've gotten inspired from the love-runnin project but wrote all the code myself.
 
 ### Content
-
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+All the content is written by me.
 
 ###  Media
-
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+#### Used Media
+[Spotify Music Link](https://open.spotify.com/track/20Jtrb4hJ3dgCegCf77nxB?si=518ae356d11240e8)
+[Video 1](https://youtu.be/uULC0GdkIHw?si=qP7veNjSbxmXEf6t)
+[Video 2](https://youtu.be/Hb36psFq-DM?si=Cz8frczt-AjOO-V4)
+[Video 3](https://youtu.be/kQH00gQPYOg?si=6e-5dULDCVwJsQgU)
+[Video 4](https://youtu.be/2vXI7yokQ2Y?si=6d7zhLGNvSbxJGAV)
+[Video 5](https://youtu.be/Tb2r2hlHCa8?si=3oRD4hSn_6SNl6hB)
   
 ###  Acknowledgments
-
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+Thanks to the Swedish Community on slack for being absolute Legends.
+Jörgen_5P_Lead
+Erik Guldbrand_P5
+Emma S-A_5P
+Jaqi_5P
+Niclas_5P_Lead
+And many more if i forgot someone.
+Thanks to my sister who is the artist and has giving me right to do this and use her material and resource.
+Thanks to my great mentor Rahul, that gave me great feedback and pointers so I could fix things very early.
+Thanks to Jack Ryan on Amazon Prime for helping me with taking breaks.
