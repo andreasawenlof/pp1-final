@@ -3,11 +3,7 @@
 
 This is a website for Jelica Thorn Music. This website is reponsive and allowed to view on all devices. The purpose of building this website is to attract mroe followers and listeners. To extend her brand and hopefully inspire people with her music.
 
-[img]
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
-
+![Bully Book Club Website shown on a range of devices](assets/docs/images/Screenshot 2024-03-06 at 16.39.57.png)
 ---
 
 ## CONTENTS
