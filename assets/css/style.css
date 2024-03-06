@@ -162,12 +162,17 @@ main {
     font-weight: bold;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+}
 
-.social-bottom {
+
+footer .social-bottom {
     width: 100%;
     background-color: white;
     position: fixed;
-    padding: 15px 0;
+    padding: 20px 0;
     z-index: 99;
     display: flex;
     justify-content: space-evenly;
@@ -179,9 +184,21 @@ main {
 .social-bottom i {
     font-size: 200%;
     color: #222;
+    margin-bottom: 10px;
 }
 
-/* RESPONSSIVE DESIGNS FOR BIGGER SCREENS */
+footer p {
+    width: 100%;
+    position: fixed;
+    display: block;
+    font-size: 10px;
+    bottom: 0px;
+    color:#222;
+    z-index: 99;
+    text-align: center;
+}
+
+/* RESPONSIVE DESIGNS FOR BIGGER SCREENS */
 
 
 /* Responsive for Screens over 768px */
@@ -268,6 +285,11 @@ main {
     #music-iframe {
         width: 100%;
     }
+
+    #copyright {
+        margin-left: 5px;
+        text-align: left;
+    }
 }
 
 /* Responsive for Screens over 992px */
@@ -339,5 +361,11 @@ main {
 
     #music-iframe {
         width: 100%;
+    }
+
+    #copyright {
+        font-size: 10px;
+        margin-left: 5px;
+        text-align: left;
     }
 }
