@@ -3,7 +3,7 @@
 
 This is a website for Jelica Thorn Music. This website is reponsive and allowed to view on all devices. The purpose of building this website is to attract mroe followers and listeners. To extend her brand and hopefully inspire people with her music.
 
-![Jelica Thorn Music Website shown on different devices](assets/images/reponsive.png)
+![Jelica Thorn Music Website shown on different devices](docs/images/reponsive.png)
 ---
 
 ## CONTENTS
@@ -19,6 +19,7 @@ This is a website for Jelica Thorn Music. This website is reponsive and allowed 
       - [Returning Visitors Goals](#returning-visitors-goals)
   - [Design](#design)
     - [Colour Scheme](#colour-scheme)
+    - [Thoughts behind choosing this colour scheme:](#thoughts-behind-choosing-this-colour-scheme)
     - [Typography](#typography)
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
@@ -78,9 +79,9 @@ Jelica Thorn Music is a music site of the musician and artist Jelica Thorn. Wher
 
 ### Colour Scheme
 
-Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
-
-
+![Color Scheme](<docs/images/Color Scheme.png>)
+### Thoughts behind choosing this colour scheme:
+Grayscale will never be outdated. It has a retro feel but also an intimate feel. It's timeless like this artist. Color scheme also show truth and genuinity, what you see is what you get. This colour-scheme reflects the artist the best.
 
 ### Typography
 
