@@ -190,17 +190,14 @@ A bit submit button is added below the form to submit the contact form.
 Information when the user inputs a non existing webpage. Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
 
 ### Future Implementations
-I would like to fix an update section where there is a "feature-section" like a new album or so. I would also want better material, better quality and more proper links for the artist to express themselves. 
-
-
-
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+- An update section where there is a "feature-section" like a new album or so. 
+- Better source material, better quality and more proper links for the artist to express themselves.
+- A Tour-section where visitors can follow the artist and come to their shows.
+- An integrated section to maybe instagram or facebook to see latest photos or posts. 
 
 ### Accessibility
 
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
-
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
+Added aria-labels on all links to help screen-readers better understand the project.
 
 Have you used icons and added aria-labels to enable screen readers to understand these?
 Have you ensured your site meets the minimum contrast requirements?

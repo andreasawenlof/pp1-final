@@ -266,7 +266,7 @@ footer p {
         align-items: baseline;
         justify-content: space-evenly;
         font-size: 120%;
-        background-color: inherit;
+        background-color: #ddd;
         right: 20px;
         top: 35px;
         gap: 40px;
@@ -359,7 +359,7 @@ footer p {
             align-items: baseline;
             justify-content: space-evenly;
             font-size: 150%;
-            background-color: inherit;
+            background-color: #ddd;
             right: 20px;
             top: 28px;
             gap: 40px;
