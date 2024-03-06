@@ -288,25 +288,30 @@ All the content is written by me.
 
 ###  Media
 #### Used Media
-- [Spotify Music Link](https://open.spotify.com/track/20Jtrb4hJ3dgCegCf77nxB?si=518ae356d11240e8)
-- [Video 1](https://youtu.be/uULC0GdkIHw?si=qP7veNjSbxmXEf6t)
-- [Video 2](https://youtu.be/Hb36psFq-DM?si=Cz8frczt-AjOO-V4)
-- [Video 3](https://youtu.be/kQH00gQPYOg?si=6e-5dULDCVwJsQgU)
-- [Video 4](https://youtu.be/2vXI7yokQ2Y?si=6d7zhLGNvSbxJGAV)
-- [Video 5](https://youtu.be/Tb2r2hlHCa8?si=3oRD4hSn_6SNl6hB)
+- Media Section
+  - Music 
+    - Spotify Music Link - https://open.spotify.com/track/20Jtrb4hJ3dgCegCf77nxB?si=518ae356d11240e8
+  - Videos 
+    - Video 1 - https://youtu.be/uULC0GdkIHw?si=qP7veNjSbxmXEf6t
+    - Video 2 - https://youtu.be/Hb36psFq-DM?si=Cz8frczt-AjOO-V4
+    - Video 3 - https://youtu.be/kQH00gQPYOg?si=6e-5dULDCVwJsQgU
+    - Video 4 - https://youtu.be/2vXI7yokQ2Y?si=6d7zhLGNvSbxJGAV
+    - Video 5 - https://youtu.be/Tb2r2hlHCa8?si=3oRD4hSn_6SNl6hB
   
 ###  Acknowledgments
-Thanks to the Swedish Community on slack for being absolute Legends.
-Jörgen_5P_Lead
-Erik Guldbrand_P5
-Emma S-A_5P
-Jaqi_5P
-Niclas_5P_Lead
-And many more if i forgot someone.
-Thanks to my sister who is the artist and has giving me right to do this and use her material and resource.
-Thanks to my great mentor from CI, that gave me great feedback and pointers so I could fix things very early.
-Thanks to CI Academy for providing a great learning experience.
-Thanks to Jack Ryan on Amazon Prime for helping me with taking breaks.
+- Thanks to the Swedish Community on slack for being absolute Legends.
+  - Jörgen_5P_Lead
+  - Erik Guldbrand_P5
+  - Emma S-A_5P
+  - Jaqi_5P
+  - Niclas_5P_Lead
+  - And many more if i forgot someone.
+
+- Thanks to:
+  - My sister who is the artist and has giving me right to do this and use her material and resource.
+  - Great mentor from CI, that gave me great feedback and pointers so I could fix things very early.
+  - CI Academy for providing a great learning experience.
+  - Jack Ryan on Amazon Prime for helping me with taking breaks.
 
 ## Final Thoughts and Comments
 At the start I actually had done quite a bit and realized i hadn't commit anything so i remade the project from scratch to be able to commit at the same time when doing the project and not manufacture them later on.
