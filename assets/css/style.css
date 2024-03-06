@@ -271,11 +271,6 @@ footer p {
     #music-iframe {
         width: 100%;
     }
-
-    #copyright {
-        margin-left: 5px;
-        text-align: left;
-    }
 }
 
 /* Responsive for Screens over 992px */
@@ -351,7 +346,5 @@ footer p {
 
     #copyright {
         font-size: 10px;
-        margin-left: 5px;
-        text-align: left;
     }
 }
