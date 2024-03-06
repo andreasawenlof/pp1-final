@@ -196,13 +196,13 @@ Information when the user inputs a non existing webpage. Alert and information t
 
 ### Accessibility
 
-Semantic HTML have been used for better anc clearer accessability for scree readers. 
+Semantic HTML have been used for better anc clearer accessibility for scree readers. 
 Hover state on links to easier see where the mouse pointer is over.
 Underline on desktop version to make sure user knows what page they're currently on.
 Colors with enough contrast to see clearly different elements.
-Used Sans-Serif fonts for better accessability to people with dyslexia.
+Used Sans-Serif fonts for better accessibility to people with dyslexia.
 
-Recognizable icons on social media links so it's easy to naviagte and clear to see.
+Recognizable icons on social media links so it's easy to navigate and clear to see.
 Added aria-labels on all links to help screen-readers better understand and navigate the project.
 Passed contrast checker, had one problem it said but it's only them not understandin the media querys.
 
@@ -221,23 +221,44 @@ Favicons - To find the favicon used.
 The site is deployed using Github Pages - [Jelica Thorn Music](https://andreasawenlof.github.io/pp1-final/)
 
 
+
 👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
 
 ### Deployment
-
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+The instructions to achieve this are below:
+1. Log in (or sign up) to Github.
+2. Find the repository for this project, pp1-final.
+3. Click on the Settings link.
+4. Click on the Pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 ### Local Development
-
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
+If you use VSCode here are the instructions:
+1. Click on this icon  ![vscode extensions](docs/images/vscode-extensions.png)  to go to extensions.
+2. Search for "Live Server".
+3. Click Install
+4. When installed you might need to restart VSCode.
+5. When inside the project you see in the bottom right corner "Go Live".
+6. Click on that and the page will open up locally in you browser.
+7. This will update in realtime when you make changes in the project on VSCode.
 
 #### How to Fork
+How to Fork
+To fork the Bully-Book-Club repository:
 
-Place instructions on how to fork your project here.
+Log in (or sign up) to Github.
+Go to the repository for this project, andreasawenlof/pp1-final.
+Click the Fork button in the top right corner.
+How to Clone
+To clone the pp1-final repository:
 
 #### How to Clone
-
-Place instructions on how to clone your project here.
+Log in (or sign up) to GitHub.
+Go to the repository for this project, andreasawenlof/pp1-final.
+Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
 
