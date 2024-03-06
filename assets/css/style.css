@@ -71,6 +71,7 @@ h2 {
 }
 
 main {
+    background-attachment: fixed;
     top: 0;
     background-image: url("../images/jelica-close-cover-bw-dark.jpg");
     background-size: cover;
@@ -313,6 +314,7 @@ footer p {
         padding: 30px auto;
     }
 
+
     h2 {
         font-size: 250%;
     }
@@ -344,5 +346,9 @@ footer p {
 
     #copyright {
         font-size: 10px;
+    }
+
+    .floating {
+
     }
 }
