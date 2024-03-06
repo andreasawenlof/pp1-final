@@ -42,8 +42,8 @@ h2 {
     color: white;
     font-size: 26px;
     text-align: center;
-    margin: 30px 0;
-    margin-top: 50px;
+    margin: 5px 0 10px;
+    margin-top: 10px;
 }
 
 #menu {
@@ -100,12 +100,19 @@ main {
 
 #media section {
     margin: 0 10px 100px;
-    padding: 10px;
+    padding: 15px;
     border: 3px solid #222;
     border-radius: 10px;
     margin-top: 120px;
     background-color: #222;
     opacity: 0.8;
+}
+
+iframe {
+    margin: 5px auto 10px;
+    border-radius: 12px;
+    width: 100%;
+    height: 250px;
 }
 
 #contact {
