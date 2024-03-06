@@ -25,6 +25,11 @@ This is a website for Jelica Thorn Music. This website is reponsive and allowed 
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
   - [Features](#features)
+    - [Favicon](#favicon)
+    - [Header / Nav](#header--nav)
+      - [Mobile](#mobile)
+      - [Desktop](#desktop)
+    - [Footer](#footer)
     - [General features on each page](#general-features-on-each-page)
     - [Future Implementations](#future-implementations)
     - [Accessibility](#accessibility)
@@ -108,6 +113,43 @@ Using one background image for all content:
 Wireframes were not used for this particular project
 
 ## Features
+The page consist of 3 pages:
+
+An home-page, media sectio and contact section.
+
+The whole site is reponsive and works well for all kind of different devices.
+
+### Favicon
+![Favicon](assets/favicon/favicon-32x32.png) that represents that it's a music page and more an artist, singer page.
+
+### Header / Nav
+
+#### Mobile
+![Header for Mobile Devices](docs/images/header-mobile.png)
+
+Header for mobile is a bit different. Logo on top centered to easily see the artist anem.
+The navigation links is inside the header and contrast with a darker background and lighter text color to make it clear and visible.
+The header is fixed and doesn't follow the flow of the rest of the page.
+
+#### Desktop
+![Header for Desktop Devices](docs/images/header-desktop.png)
+Consists of the logo (artist name) which also is a link to back to the homepage and a menu to the right to easily navigate to different pages.
+The links changes color when hovering to easily know what you're mouse is pointing over. 
+An active feature is added as an underline under the link to easily see what page you're on.
+The header is fixed and doesn't follow the flow of the rest of the page.
+
+### Footer
+![Footer for Mobile Devices](docs/images/footer-mobile.png)
+Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. Copyright information in the bottom center.
+Used the same colors for footer as for header to make it follow a consistent theme.
+The footer is fixed and doesn't follow the flow of the rest of the page.
+
+![Footer for Desktop Devices](docs/images/footer-desktop.png)
+Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. 
+The links also has a hover effect when having your mouse pointer of the links in the same color as the header links for consistent colors with the overall theme. 
+Copyright information in the bottom center.
+Used the same colors for footer as for header to make it follow a consistent theme.
+The footer is fixed and doesn't follow the flow of the rest of the page.
 
 
 
