@@ -13,9 +13,9 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
 - [CONTENTS](#contents)
 - [AUTOMATED TESTING](#automated-testing)
   - [ W3C Validator](#w3c-validator)
-    - [**CSS Validation**](#css-validation)
   - [Lighthouse](#lighthouse)
-  - [WAVE](#wave)
+    - [Desktop Results](#desktop-results)
+    - [Mobile Results](#mobile-results)
 - [MANUAL TESTING](#manual-testing)
   - [Testing User Stories](#testing-user-stories)
   - [Full Testing](#full-testing)
@@ -35,37 +35,33 @@ The Automated Testing includes all the testing that is carried out by a program,
 
 The most popular HTML validator is [W3C](https://validator.w3.org/). There are two ways to validate the HTML for your first milestone - you can copy the live link for your site page and paste into the validate by URI field, or you can copy all the code for your page and paste this into the validate by direct input field.
 
-#### **CSS Validation**
-
-CSS Validation can only be done by copying and pasting the CSS file contents into the direct input. Make sure that the checkbox for CSS is selected.
 
 [WC3](https://validator.w3.org/) was used to validate all HTML and CSS.
+<br>
 [index.html](https://andreasawenlof.github.io/pp1-final/index.html) - passed
+<br>
 [media.html](https://andreasawenlof.github.io/pp1-final/media.html) - passed
+<br>
 [contact.html](https://andreasawenlof.github.io/pp1-final/contact.html) - passed
+<br>
 [404.html](https://andreasawenlof.github.io/pp1-final/404.html) - passed
-
-![W3C CSS Validation](documentation/milestone1-testing/w3c-css-validation.png)
 
 ### Lighthouse
 
-👩🏻‍💻 View an example of a completed lighthouse testing section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022/blob/main/TESTING.md#Lighthouse)
+Lighthouse
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
 
-Lighthouse Testing is part of the Chrome Developer Tools. For more information on how to use this tool, please visit [chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en#:~:text=Lighthouse%20is%20an%20open%2Dsource,how%20well%20the%20page%20did.).
+#### Desktop Results
+![Test Index Desktop](docs/images/test/test-index-desk.png)
+![Test Media Desktop](docs/images/test/test-media-desk.png)
+![Test Contact Desktop](docs/images/test/test-contact-desk.png)
+![Test 404 Error Desktop](docs/images/test/test-404-desk.png)
 
-You will need to run the Lighthouse testing on each individual page of your site, for desktop as a minimum. If you have time it would be great to also add in the mobile testing.
-
-![Lighthouse Testing](documentation/milestone1-testing/lighthouse.png)
-
-### WAVE
-
-👩🏻‍💻 View an example of a completed WAVE testing section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022/blob/main/TESTING.md#WAVE)
-
-[WAVE](https://wave.webaim.org/) is an accessibility testing tool. I like to run this on each page of my site and take a screenshot of the results to add here. They have a website for testing and a Chrome extension.
-
-![Wave Desktop](documentation/milestone1-testing/wave-desktop.png)
-
-![Wave Exetension](documentation/milestone1-testing/wqave-extension.png)
+#### Mobile Results
+![Test Index Mobile](docs/images/test/test-index-mob.png)
+![Test Media Mobile](docs/images/test/test-media-mob.png)
+![Test Contact Mobile](docs/images/test/test-contact-mob.png)
+![Test 404 Error Mobile](docs/images/test/test-404-mob.png)
 
 ## MANUAL TESTING
 
