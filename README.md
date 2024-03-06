@@ -288,12 +288,12 @@ All the content is written by me.
 
 ###  Media
 #### Used Media
-[Spotify Music Link](https://open.spotify.com/track/20Jtrb4hJ3dgCegCf77nxB?si=518ae356d11240e8)
-[Video 1](https://youtu.be/uULC0GdkIHw?si=qP7veNjSbxmXEf6t)
-[Video 2](https://youtu.be/Hb36psFq-DM?si=Cz8frczt-AjOO-V4)
-[Video 3](https://youtu.be/kQH00gQPYOg?si=6e-5dULDCVwJsQgU)
-[Video 4](https://youtu.be/2vXI7yokQ2Y?si=6d7zhLGNvSbxJGAV)
-[Video 5](https://youtu.be/Tb2r2hlHCa8?si=3oRD4hSn_6SNl6hB)
+- [Spotify Music Link](https://open.spotify.com/track/20Jtrb4hJ3dgCegCf77nxB?si=518ae356d11240e8)
+- [Video 1](https://youtu.be/uULC0GdkIHw?si=qP7veNjSbxmXEf6t)
+- [Video 2](https://youtu.be/Hb36psFq-DM?si=Cz8frczt-AjOO-V4)
+- [Video 3](https://youtu.be/kQH00gQPYOg?si=6e-5dULDCVwJsQgU)
+- [Video 4](https://youtu.be/2vXI7yokQ2Y?si=6d7zhLGNvSbxJGAV)
+- [Video 5](https://youtu.be/Tb2r2hlHCa8?si=3oRD4hSn_6SNl6hB)
   
 ###  Acknowledgments
 Thanks to the Swedish Community on slack for being absolute Legends.
