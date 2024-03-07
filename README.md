@@ -33,6 +33,8 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
       - [Mobile](#mobile)
       - [Desktop](#desktop)
     - [Footer](#footer)
+      - [Mobile](#mobile-1)
+      - [Desktop](#desktop-1)
     - [The Homepage](#the-homepage)
     - [Media Section](#media-section)
     - [Contact Section](#contact-section)
@@ -153,12 +155,16 @@ The header is fixed and doesn't follow the flow of the rest of the page.
 
 The footer exists on every page
 
+#### Mobile
 ![Footer for Mobile Devices](docs/images/footer-mobile.png)
+
 Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. Copyright information in the bottom center.
 Used the same colors for footer as for header to make it follow a consistent theme.
 The footer is fixed and doesn't follow the flow of the rest of the page.
 
+#### Desktop
 ![Footer for Desktop Devices](docs/images/footer-desktop.png)
+
 Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. 
 The links also has a hover effect when having your mouse pointer of the links in the same color as the header links for consistent colors with the overall theme. 
 Copyright information in the bottom center.
@@ -175,13 +181,13 @@ The homepage consists of an about me section to read about the artist, what she 
 This page consist of header and embedded iframes of media. Spotify link and youtube links. The section is split up into 2 sections for clarity:
 - Music section
 - Video section
-The padding is transparent but the videos and the content is not trasnsparent.
+The padding is transparent but the videos and the content is not transparent.
 
 ### Contact Section
 The contact section consist of a h2 header and a form for the visitor to contact the artist.
-The input-fields are required which means a user must input information in all fielfs for it to be able to submit.
+The input-fields are required which means a user must input information in all fields for it to be able to submit.
 A large textarea for the user to input a larger message for the communication to feel a bit more personal and intimate.
-A bit submit button is added below the form to submit the contact form.
+A big submit button is added below the form to submit the contact form.
 
 ### 404 Error Page
 Information when the user inputs a non existing webpage. Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
