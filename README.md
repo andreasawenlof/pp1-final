@@ -46,6 +46,7 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
   - [Deployment \& Local Development](#deployment--local-development)
     - [Deployment](#deployment)
     - [Local Development](#local-development)
+      - [How to view it Live in VSCode](#how-to-view-it-live-in-vscode)
       - [How to Fork](#how-to-fork)
       - [How to Clone](#how-to-clone)
   - [Testing](#testing)
@@ -237,6 +238,8 @@ The instructions to achieve this are below:
 6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 ### Local Development
+
+#### How to view it Live in VSCode
 If you use VSCode here are the instructions:
 1. Click on this icon  ![vscode extensions](docs/images/vscode-extensions.png)  to go to extensions.
 2. Search for "Live Server".
