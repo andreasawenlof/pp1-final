@@ -104,6 +104,10 @@ Had friends and family testing the site and reported very few issues (all those 
 
 ## FIXED AFTER USER FEEDBACK/EXPERIENCE
 - Split up the media section into Music and Video
+- Werapped the logo in a link to index.html
+- Added a 404.html page
+- Added hover effects on social links as well to look like the header
+- Added that social media links opened up in a new tab
 
 ## BUGS
 | Bug | Fix |
