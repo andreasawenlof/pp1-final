@@ -20,8 +20,8 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
       - [First Time Visitor Goals](#first-time-visitor-goals)
       - [Returning Visitors Goals](#returning-visitors-goals)
   - [Design](#design)
-    - [Colour Scheme](#colour-scheme)
-    - [Thoughts behind choosing this colour scheme:](#thoughts-behind-choosing-this-colour-scheme)
+    - [Color Scheme](#color-scheme)
+    - [Thoughts behind choosing this color scheme:](#thoughts-behind-choosing-this-color-scheme)
     - [Typography](#typography)
       - [Protest Revolution](#protest-revolution)
     - [Imagery](#imagery)
@@ -94,17 +94,17 @@ Jelica Thorn Music is a music site of the musician and artist Jelica Thorn. Wher
 ## Design
 
 
-### Colour Scheme
+### Color Scheme
 
 ![Color Scheme](<docs/images/Color Scheme.png>)
-### Thoughts behind choosing this colour scheme:
-Grayscale will never be outdated. It has a retro feel but also an intimate feel. It's timeless like this artist. Color scheme also show truth and genuinity, what you see is what you get. This colour-scheme reflects the artist the best.
+### Thoughts behind choosing this color scheme:
+Gray scale will never be outdated. It has a retro feel but also an intimate feel. It's timeless like this artist. Color scheme also show truth and Genuineness, what you see is what you get. This color-scheme reflects the artist the best.
 
 ### Typography
-I only imported one font from googlefonts that i use for the logo and h2 describing sections of the site.
+I only imported one font from google fonts that i use for the logo and h2 describing sections of the site.
 
 #### Protest Revolution
-Reason behind this font is it felt a bit rebellish and a bit outside the box reflecting the artist and their personality and art.
+Reason behind this font is it felt a bit rebel(ish) and a bit outside the box reflecting the artist and their personality and art.
 
 It is accessible through google fonts, but i don't think it's that common.
 
@@ -125,7 +125,7 @@ Wireframes were not used for this particular project
 ## Features
 The page consist a home-page, media section, contact section and 404 Error page.
 
-The whole site is reponsive and works well for all kind of different devices.
+The whole site is responsive and works well for all kind of different devices.
 
 ### General features on each page
 
@@ -141,7 +141,7 @@ This header exist on every page.
 #### Mobile
 ![Header for Mobile Devices](docs/images/header-mobile.png)
 
-Header for mobile is a bit different. Logo on top centered to easily see the artist anem.
+Header for mobile is a bit different. Logo on top centered to easily see the artist name.
 The navigation links is inside the header and contrast with a darker background and lighter text color to make it clear and visible.
 The header is fixed and doesn't follow the flow of the rest of the page.
 
@@ -175,7 +175,7 @@ The footer is fixed and doesn't follow the flow of the rest of the page.
 Background is fixed, and all the content in front of it moves without the background moving.
 
 ### The Homepage
-The homepage consists of an about me section to read about the artist, what she is about and what her music is inspired by. This page is very crucial to attract the visitor as we want them to navigate furuther on the page.
+The homepage consists of an about me section to read about the artist, what she is about and what her music is inspired by. This page is very crucial to attract the visitor as we want them to navigate further on the page.
 ![Responsive image of The HOME page](docs/images/home-resp.png)
 
 ### Media Section
@@ -212,7 +212,7 @@ Used Sans-Serif fonts for better accessibility to people with dyslexia.
 
 Recognizable icons on social media links so it's easy to navigate and clear to see.
 Added aria-labels on all links to help screen-readers better understand and navigate the project.
-Passed contrast checker, had one problem it said but it's only them not understandin the media querys.
+Passed contrast checker, had one problem it said but it's only them not understanding the media queries.
 
 ### Languages Used
 HTML and CSS were used to create this website. 
@@ -311,4 +311,4 @@ All the content is written by me.
 ## Final Thoughts and Comments
 At the start I actually had done quite a bit and realized i hadn't commit anything so i remade the project from scratch to be able to commit at the same time when doing the project and not manufacture them later on.
 
-I probably ended up rebuilding the project 10-20 times not being happy. Started with different designs, single page, multi page, single page again. Colors no grayscale etc. The journey has been quite long but it has been very teachable and fun in the end.
+I probably ended up rebuilding the project 10-20 times not being happy. Started with different designs, single page, multi page, single page again. Colors and no gray scale etc. The journey has been quite long but it has been very teachable and fun in the end.

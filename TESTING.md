@@ -104,7 +104,7 @@ Had friends and family testing the site and reported very few issues (all those 
 
 ## FIXED AFTER USER FEEDBACK/EXPERIENCE
 - Split up the media section into Music and Video
-- Werapped the logo in a link to index.html
+- Wrapped the logo in a link to index.html
 - Added a 404.html page
 - Added hover effects on social links as well to look like the header
 - Added that social media links opened up in a new tab
@@ -115,6 +115,6 @@ Had friends and family testing the site and reported very few issues (all those 
 | Scroll-bar appeared in the "who-section" on Home | Removed "overflow" from style.css. |
 | Viewing contact form on Firefox, placeholder was too aligned to the left | Increased the padding-left |
 | Background scrolled with the content | Added background-attachment: fixed |
-| Everything was transparent even the videos on media section | Instead of Opacity i added an alpha channel to the color and chaged it from HEX to RGBA |
+| Everything was transparent even the videos on media section | Instead of Opacity i added an alpha channel to the color and changed it from HEX to RGBA |
 
 No unsolved bugs.
