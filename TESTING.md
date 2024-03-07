@@ -93,7 +93,7 @@ Safari
 Firefox
 Microsoft Edge
 
-Had friends and family testing the site and reported very few issues.
+Had friends and family testing the site and reported very few issues (all those issues got fixed as you can see in the bug/fix section below).
 
 ## FIXED AFTER MENTOR FEEDBACK
 - Removed transparency on header and footer
