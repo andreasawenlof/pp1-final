@@ -47,8 +47,11 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
     - [Deployment](#deployment)
     - [Local Development](#local-development)
       - [How to Fork](#how-to-fork)
+        - [To Fork the pp1-final repository:](#to-fork-the-pp1-final-repository)
       - [How to Clone](#how-to-clone)
+        - [To Clone the pp1-final repository:](#to-clone-the-pp1-final-repository)
       - [Deploy in VSCode](#deploy-in-vscode)
+        - [If you use VSCode here are the instructions:](#if-you-use-vscode-here-are-the-instructions)
   - [Testing](#testing)
   - [Credits](#credits)
     - [Code Used](#code-used)
@@ -141,16 +144,17 @@ This header exist on every page.
 #### Mobile
 ![Header for Mobile Devices](docs/images/header-mobile.png)
 
-Header for mobile is a bit different. Logo on top centered to easily see the artist name.
-The navigation links is inside the header and contrast with a darker background and lighter text color to make it clear and visible.
-The header is fixed and doesn't follow the flow of the rest of the page.
+- Header for mobile is a bit different. - 
+- Logo on top centered to easily see the artist name.
+- The navigation links is inside the header and contrast with a darker background and lighter text color to make it clear and visible.
+- The header is fixed and doesn't follow the flow of the rest of the page.
 
 #### Desktop
 ![Header for Desktop Devices](docs/images/header-desktop.png)
-Consists of the logo (artist name) which also is a link to back to the homepage and a menu to the right to easily navigate to different pages.
-The links changes color when hovering to easily know what you're mouse is pointing over. 
-An active feature is added as an underline under the link to easily see what page you're on.
-The header is fixed and doesn't follow the flow of the rest of the page.
+- Consists of the logo (artist name) which also is a link to back to the homepage and a menu to the right to easily navigate to different pages.
+- The links changes color when hovering to easily know what you're mouse is pointing over. 
+- An active feature is added as an underline under the link to easily see what page you're on.
+- The header is fixed and doesn't follow the flow of the rest of the page.
 
 ### Footer
 
@@ -159,18 +163,19 @@ The footer exists on every page
 #### Mobile
 ![Footer for Mobile Devices](docs/images/footer-mobile.png)
 
-Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. Copyright information in the bottom center.
-Used the same colors for footer as for header to make it follow a consistent theme.
-The footer is fixed and doesn't follow the flow of the rest of the page.
+- Footer with social-link-icons to easy visit social-media links of the artist (links opens in a new tab.) 
+- Copyright information in the bottom center.
+- Used the same colors for footer as for header to make it follow a consistent theme.
+- The footer is fixed and doesn't follow the flow of the rest of the page.
 
 #### Desktop
 ![Footer for Desktop Devices](docs/images/footer-desktop.png)
 
-Footer with social-link-icons to easy visit social-media links of the artist. The links opens in a new tab. 
-The links also has a hover effect when having your mouse pointer of the links in the same color as the header links for consistent colors with the overall theme. 
-Copyright information in the bottom center.
-Used the same colors for footer as for header to make it follow a consistent theme.
-The footer is fixed and doesn't follow the flow of the rest of the page.
+- Footer with social-link-icons to easy visit social-media links of the artist (links opens in a new tab.) 
+- The links also has a hover effect when having your mouse pointer of the links in the same color as the header links for consistent colors with the overall theme. 
+- Copyright information in the bottom center.
+- Used the same colors for footer as for header to make it follow a consistent theme.
+- The footer is fixed and doesn't follow the flow of the rest of the page.
 
 Background is fixed, and all the content in front of it moves without the background moving.
 
@@ -179,21 +184,23 @@ The homepage consists of an about me section to read about the artist, what she 
 ![Responsive image of The HOME page](docs/images/home-resp.png)
 
 ### Media Section
-This page consist of header and embedded iframes of media. A Spotify link and several Youtube links. The section is split up into 2 sections for clarity:
-- Music section
-- Video section
-The padding/background is transparent but the videos and the content is not transparent.
+- This page consist of header and embedded iframes of media. A Spotify link and several Youtube links. 
+- The section is split up into 2 sections for clarity:
+  - Music section
+  - Video section
+- The padding/background is transparent but the videos and the content is not transparent.
 ![Responsive image of Media Page](docs/images/media-resp.png)
 
 ### Contact Section
-The contact section consist of an h2 header and a form for the visitor to contact the artist.
-The input-fields are required which means a user must input information in all fields for it to be able to submit.
-A large textarea for the user to input a larger message for the communication to feel a bit more personal and intimate.
-A big submit button is added below the form to submit the contact form.
+- The contact section consist of an h2 header and a form for the visitor to contact the artist.
+- The input-fields are required which means a user must input information in all fields for it to be able to submit.
+- A large textarea for the user to input a larger message for the communication to feel a bit more personal and intimate.
+- A big submit button is added below the form to submit the contact form.
 ![Responsive image of The Contact Page](docs/images/contact-resp.png)
 
 ### 404 Error Page
-Information when the user inputs a non existing webpage. Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
+- Information when the user inputs a non existing webpage. 
+- Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
 ![Responsive image of 404.html](docs/images/error-resp.png)
 
 ### Future Implementations
@@ -204,26 +211,26 @@ Information when the user inputs a non existing webpage. Alert and information t
 
 ### Accessibility
 
-Semantic HTML have been used for better anc clearer accessibility for scree readers. 
-Hover state on links to easier see where the mouse pointer is over.
-Underline on desktop version to make sure user knows what page they're currently on.
-Colors with enough contrast to see clearly different elements.
-Used Sans-Serif fonts for better accessibility to people with dyslexia.
+- Semantic HTML have been used for better anc clearer accessibility for scree readers. 
+- Hover state on links to easier see where the mouse pointer is over.
+- Underline on desktop version to make sure user knows what page they're currently on.
+- Colors with enough contrast to see clearly different elements.
+- Used Sans-Serif fonts for better accessibility to people with dyslexia.
 
-Recognizable icons on social media links so it's easy to navigate and clear to see.
-Added aria-labels on all links to help screen-readers better understand and navigate the project.
-Passed contrast checker, had one problem it said but it's only them not understanding the media queries.
+- Recognizable icons on social media links so it's easy to navigate and clear to see.
+- Added aria-labels on all links to help screen-readers better understand and navigate the project.
+- Passed contrast checker, had one problem it said but it's only them not understanding the media queries.
 
 ### Languages Used
-HTML and CSS were used to create this website. 
-VERY little javascript just so the fontawesome icons could be loaded.
+- HTML and CSS were used to create this website. 
+- VERY little javascript just so the fontawesome icons could be loaded.
 
 ### Frameworks, Libraries & Programs Used
-Git - For version control
-Github - To save and store files for the website
-Googlefonts - For being able to use the font of the Logo and h2 headers.
-Fontawesome - For the social-media icons in the footer.
-Favicons - To find the favicon used.
+- Git - For version control
+- Github - To save and store files for the website
+- Googlefonts - For being able to use the font of the Logo and h2 headers.
+- Fontawesome - For the social-media icons in the footer.
+- Favicons - To find the favicon used.
 
 ## Deployment & Local Development
 The site is deployed using Github Pages - [Jelica Thorn Music](https://andreasawenlof.github.io/pp1-final/)
@@ -240,21 +247,21 @@ The instructions to achieve this are below:
 ### Local Development
 
 #### How to Fork
-Log in (or sign up) to Github.
-Go to the repository for this project, andreasawenlof/pp1-final.
-Click the Fork button in the top right corner.
-How to Clone
-To clone the pp1-final repository:
+##### To Fork the pp1-final repository:
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, andreasawenlof/pp1-final.
+3. Click the Fork button in the top right corner.
 
 #### How to Clone
-Log in (or sign up) to GitHub.
-Go to the repository for this project, andreasawenlof/pp1-final.
-Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
-Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+##### To Clone the pp1-final repository:
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, andreasawenlof/pp1-final.
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 #### Deploy in VSCode
-If you use VSCode here are the instructions:
+##### If you use VSCode here are the instructions:
 1. Click on this icon  ![vscode extensions](docs/images/vscode-extensions.png)  to go to extensions.
 2. Search for "Live Server".
 3. Click Install
@@ -271,15 +278,28 @@ See attached [TESTING.md](TESTING.md)
 - https://spotify.com
 - https://www.tutorialspoint.com/how-to-add-multiple-font-files-for-the-same-font-using-css
 - https://blog.hubspot.com/website/musician-website-examples
+- [Kera's readme-template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
+- [Kera's testing-template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md)
+- [Kera's TheQuizArms](https://github.com/kera-cudmore/TheQuizArms/blob/main/README.md)
+- [Kera's TheQuizArms](https://github.com/kera-cudmore/TheQuizArms/blob/main/TESTING.md)
+- [Kera's Bully Book Club](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
+- [Reltoom's Ways to Relax - Mind, Body & Soul](https://github.com/reltoom/Project-1-Relax/blob/main/README.md)
+- [Searching to be able to adjust the placeholder](https://www.w3schools.com/howto/howto_css_placeholder.asp)
+- [Love Running CI Sample Project](https://github.com/andreasawenlof/love-running-2)
 
 
 ### Code Used
 
-I've gotten inspired from the love-running project but wrote all the code myself.
-Also used Kera's readme-template to make a readme that i adjusted to fit my project.
+- I've gotten inspired from the love-running project but wrote all the code myself.
+- I might've been inspired but all the code and ideas where my own and I've coded all myself.
+- When I google'd or searched for something i never copied but wrote it properly myself to fit my own project.
 
 ### Content
-All the content is written by me.
+- All the content is written by me.
+- README.md was inspired by links above but not copied nor plagiarized.
+- TESTING.md was inspired by links above but not copied nor plagiarized.
+- I might've been inspired and impacted by certain credits and sources to write README and TESTING as this is totally new to me, but everything is reworked to fit my own project the best.
+
 
 ###  Media
 #### Used Media
@@ -309,6 +329,6 @@ All the content is written by me.
   - Jack Ryan on Amazon Prime for helping me with taking breaks.
 
 ## Final Thoughts and Comments
-At the start I actually had done quite a bit and realized i hadn't commit anything so i remade the project from scratch to be able to commit at the same time when doing the project and not manufacture them later on.
+- At the start I actually had done quite a bit and realized i hadn't commit anything so i remade the project from scratch to be able to commit at the same time when doing the project and not manufacture them later on.
 
-I probably ended up rebuilding the project 10-20 times not being happy. Started with different designs, single page, multi page, single page again. Colors and no gray scale etc. The journey has been quite long but it has been very teachable and fun in the end.
+- I probably ended up rebuilding the project 10-20 times not being happy. Started with different designs, single page, multi page, single page again. Colors and no gray scale etc. The journey has been quite long but it has been very teachable and fun in the end.

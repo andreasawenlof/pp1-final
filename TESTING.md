@@ -31,14 +31,10 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
 
 ###  W3C Validator
 [WC3](https://validator.w3.org/) was used to validate all HTML and CSS.
-<br>
-[index.html](https://andreasawenlof.github.io/pp1-final/index.html) - passed
-<br>
-[media.html](https://andreasawenlof.github.io/pp1-final/media.html) - passed
-<br>
-[contact.html](https://andreasawenlof.github.io/pp1-final/contact.html) - passed
-<br>
-[404.html](https://andreasawenlof.github.io/pp1-final/404.html) - passed
+- [index.html](https://andreasawenlof.github.io/pp1-final/index.html) - passed
+- [media.html](https://andreasawenlof.github.io/pp1-final/media.html) - passed
+- [contact.html](https://andreasawenlof.github.io/pp1-final/contact.html) - passed
+- [404.html](https://andreasawenlof.github.io/pp1-final/404.html) - passed
 
 ### Lighthouse
 
@@ -91,12 +87,12 @@ Full testing was performed on the following devices:
   - iPhone X
 
 Tested the site using the following browsers:
-Google Chrome
-Safari
-Firefox
-Microsoft Edge
+- Google Chrome (All devices)
+- Safari  (All Devices)
+- Firefox (All devices)
+- Microsoft Edge (Desktop)
 
-Had friends and family testing the site and reported very few issues (all those issues got fixed as you can see in the bug/fix section below).
+- Had friends and family testing the site and reported very few issues (all those issues got fixed as you can see in the bug/fix section below).
 
 ## FIXED AFTER MENTOR FEEDBACK
 - Removed transparency on header and footer
@@ -120,4 +116,4 @@ Had friends and family testing the site and reported very few issues (all those 
 | Background scrolled with the content | Added background-attachment: fixed |
 | Everything was transparent even the videos on media section | Instead of Opacity i added an alpha channel to the color and changed it from HEX to RGBA |
 
-No unsolved bugs.
+No unsolved bugs except the above mentioned Lighthouse Result that I'm not able to influence due to lack of access to backend.
