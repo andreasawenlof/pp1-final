@@ -46,9 +46,9 @@ You can reach the page link [here](https://andreasawenlof.github.io/pp1-final/)
   - [Deployment \& Local Development](#deployment--local-development)
     - [Deployment](#deployment)
     - [Local Development](#local-development)
-      - [How to view it Live in VSCode](#how-to-view-it-live-in-vscode)
       - [How to Fork](#how-to-fork)
       - [How to Clone](#how-to-clone)
+      - [Deploy in VSCode](#deploy-in-vscode)
   - [Testing](#testing)
   - [Credits](#credits)
     - [Code Used](#code-used)
@@ -239,16 +239,6 @@ The instructions to achieve this are below:
 
 ### Local Development
 
-#### How to view it Live in VSCode
-If you use VSCode here are the instructions:
-1. Click on this icon  ![vscode extensions](docs/images/vscode-extensions.png)  to go to extensions.
-2. Search for "Live Server".
-3. Click Install
-4. When installed you might need to restart VSCode.
-5. When inside the project you see in the bottom right corner "Go Live".
-6. Click on that and the page will open up locally in you browser.
-7. This will update in realtime when you make changes in the project on VSCode.
-
 #### How to Fork
 Log in (or sign up) to Github.
 Go to the repository for this project, andreasawenlof/pp1-final.
@@ -262,6 +252,16 @@ Go to the repository for this project, andreasawenlof/pp1-final.
 Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+#### Deploy in VSCode
+If you use VSCode here are the instructions:
+1. Click on this icon  ![vscode extensions](docs/images/vscode-extensions.png)  to go to extensions.
+2. Search for "Live Server".
+3. Click Install
+4. When installed you might need to restart VSCode.
+5. When inside the project you see in the bottom right corner "Go Live".
+6. Click on that and the page will open up locally in you browser.
+7. This will update in realtime when you make changes in the project on VSCode.
 
 ## Testing
 See attached [TESTING.md](TESTING.md)
