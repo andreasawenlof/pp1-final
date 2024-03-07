@@ -1,7 +1,7 @@
 # Jelica Thorn Music
 
 
-This is a website for Jelica Thorn Music. This website is reponsive and allowed to view on all devices. The purpose of building this website is to attract mroe followers and listeners. To extend her brand and hopefully inspire people with her music.
+This is a website for Jelica Thorn Music. This website is responsive and allowed to view on all devices. The purpose of building this website is to attract more followers and listeners. To extend her brand and hopefully inspire people with her music.
 
 ![Jelica Thorn Music Website shown on different devices](docs/images/reponsive.png)
 
