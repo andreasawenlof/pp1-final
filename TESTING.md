@@ -14,6 +14,7 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
   - [Lighthouse](#lighthouse)
     - [Desktop Results](#desktop-results)
     - [Mobile Results](#mobile-results)
+    - [Testing Results of the Media Section on both mobile and desktop are affected by third party cookies and due to the lack of access to the server the http header cannot be set/changed. Therefor the Results cannot be increased.](#testing-results-of-the-media-section-on-both-mobile-and-desktop-are-affected-by-third-party-cookies-and-due-to-the-lack-of-access-to-the-server-the-http-header-cannot-be-setchanged-therefor-the-results-cannot-be-increased)
 - [MANUAL TESTING](#manual-testing)
   - [Testing User Stories](#testing-user-stories)
     - [First Time Visitors Goals](#first-time-visitors-goals)
@@ -55,6 +56,8 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 ![Test Media Mobile](docs/images/test/test-media-mob.png)
 ![Test Contact Mobile](docs/images/test/test-contact-mob.png)
 ![Test 404 Error Mobile](docs/images/test/test-404-mob.png)
+
+#### Testing Results of the Media Section on both mobile and desktop are affected by third party cookies and due to the lack of access to the server the http header cannot be set/changed. Therefor the Results cannot be increased.
 
 ## MANUAL TESTING
 
