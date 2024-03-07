@@ -174,18 +174,18 @@ The footer is fixed and doesn't follow the flow of the rest of the page.
 Background is fixed, and all the content in front of it moves without the background moving.
 
 ### The Homepage
-The homepage consists of an about me section to read about the artist, what she is about and what her music is inspired. This page is very crucial to attract the visitor as we want them to click further on the links.
+The homepage consists of an about me section to read about the artist, what she is about and what her music is inspired by. This page is very crucial to attract the visitor as we want them to navigate furuther on the page.
 ![Responsive image of The HOME page](docs/images/home-resp.png)
 
 ### Media Section
-This page consist of header and embedded iframes of media. Spotify link and youtube links. The section is split up into 2 sections for clarity:
+This page consist of header and embedded iframes of media. A Spotify link and several Youtube links. The section is split up into 2 sections for clarity:
 - Music section
 - Video section
-The padding is transparent but the videos and the content is not transparent.
+The padding/background is transparent but the videos and the content is not transparent.
 ![Responsive image of Media Page](docs/images/media-resp.png)
 
 ### Contact Section
-The contact section consist of a h2 header and a form for the visitor to contact the artist.
+The contact section consist of an h2 header and a form for the visitor to contact the artist.
 The input-fields are required which means a user must input information in all fields for it to be able to submit.
 A large textarea for the user to input a larger message for the communication to feel a bit more personal and intimate.
 A big submit button is added below the form to submit the contact form.
