@@ -17,6 +17,7 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
     - [Testing Results of the Media Section on both mobile and desktop are affected by third party cookies and due to the lack of access to the server the http header cannot be set/changed. Therefor the Results cannot be increased.](#testing-results-of-the-media-section-on-both-mobile-and-desktop-are-affected-by-third-party-cookies-and-due-to-the-lack-of-access-to-the-server-the-http-header-cannot-be-setchanged-therefor-the-results-cannot-be-increased)
 - [MANUAL TESTING](#manual-testing)
   - [Tested:](#tested)
+    - [All tests passed](#all-tests-passed)
   - [Testing User Stories](#testing-user-stories)
     - [First Time Visitors Goals](#first-time-visitors-goals)
     - [Returning Visitors Goals](#returning-visitors-goals)
@@ -64,6 +65,7 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 - That the site and all pages are responsive on all kinds of sizes of devices and screens
 - That the background is attached when i scroll the other content on top
 - That all media links works and opens in a new tab
+#### All tests passed
 
 ### Testing User Stories
 
