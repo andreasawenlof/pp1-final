@@ -16,6 +16,7 @@ You can view the page [here](https://andreasawenlof.github.io/pp1-final/)
     - [Mobile Results](#mobile-results)
 - [MANUAL TESTING](#manual-testing)
   - [Testing User Stories](#testing-user-stories)
+    - [First Time Visitors Goals](#first-time-visitors-goals)
     - [Returning Visitors Goals](#returning-visitors-goals)
   - [Full Testing](#full-testing)
 - [FIXED AFTER MENTOR FEEDBACK](#fixed-after-mentor-feedback)
@@ -59,14 +60,23 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 ### Testing User Stories
 
-- I want to know what the artist is about and through that know if i'm interested or not
-- I want to be able to listen or watch the artist media either on the site or being able to click external links that can open in a new tab
-- I want to be able to contact the artist or send them a message
+#### First Time Visitors Goals
+| Goals | How are they achieved? |
+| :--- | :--- |
+| `First Time Visitors` |
+|  |  |  |
+| I want to know what the artist is about and through that know if i'm interested or not | By providing an "about-section" on the homepage instead of another link attract the user right away |
+| I want to be able to listen or watch the artist media either on the site or being able to click external links that can open in a new tab | There is a media section and there are music and videos that you can either play on the site or click to go to an external link opening in a new tab |
+| I want to be able to contact the artist or send them a message | A contact section exists where the user can write a message to the artist |
 
 #### Returning Visitors Goals
-- I want to see updates of new releases
-- I want to be able to contact her or send a message
-- I want to still be able to relate and recognize myself as last time
+| Goals | How are they achieved? |
+| :--- | :--- |
+| `Returning Visitors` |
+|  |  |  |
+| I want to see updates of new releases | There is a media section where you can post that |
+| I want to be able to contact her or send a message | There is a contact section where the user can send the artist a message |
+| I want to still be able to relate and recognize myself as last time | At the homepage the user can read about the artist and their vision |
 
 
 ### Full Testing
@@ -74,8 +84,8 @@ Full testing was performed on the following devices:
 
 - Laptop:
   - Macbook Air M2 13,6"
-Mobile Devices:
-Phone X.
+- Mobile Devices:
+  - iPhone X
 
 Tested the site using the following browsers:
 Google Chrome
